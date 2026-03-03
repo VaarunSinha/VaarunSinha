@@ -17,9 +17,9 @@ This GitHub is not my primary code home. Almost everything I build lives on clie
 
 What I've shipped in the last year:
 
-- [BrainCompass](intelliscape.ai) — AI Alzheimer's detection platform, 10-service microservices architecture, now in clinical trials 
-- [Medulla (TharBionics)](medulla.tharbionics.com) — full re-architecture of a 15-year-old medico-legal platform
-- [B2Y](b2y.ai) (Sarvam Healthcare) — end-to-end neurological healthcare workflows
+- [BrainCompass](https://intelliscape.ai) — AI Alzheimer's detection platform, 10-service microservices architecture, now in clinical trials 
+- [Medulla (TharBionics)](https://medulla.tharbionics.com) — full re-architecture of a 15-year-old medico-legal platform
+- [B2Y](https://b2y.ai) (Sarvam Healthcare) — end-to-end neurological healthcare workflows
 - Aajsecode — developer education platform, 2,700+ students
 - Nexshastra — post-quantum secure browser and GPS-denied drone navigation
 
