@@ -20,7 +20,7 @@ What I've shipped in the last year:
 - [BrainCompass](https://intelliscape.ai) — AI Alzheimer's detection platform, 10-service microservices architecture, now in clinical trials 
 - [Medulla (TharBionics)](https://medulla.tharbionics.com) — full re-architecture of a 15-year-old medico-legal platform
 - [B2Y](https://b2y.ai) (Sarvam Healthcare) — end-to-end neurological healthcare workflows
-- Aajsecode — developer education platform, 2,700+ students
+- [Aajsecode](aajsecode.com) — developer education platform, 2,700+ students (paid)
 
 ---
 
